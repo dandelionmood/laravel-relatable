@@ -1,5 +1,5 @@
 {
-    "name": "spatie/laravel-relatable",
+    "name": "dandelionmood/laravel-relatable",
     "description": "Trait to manage an Eloquent model's related content",
     "keywords": [
         "spatie",
